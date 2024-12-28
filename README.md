@@ -1,2 +1,2 @@
-# NaturalLanguageProcessing
-NaturalLanguagePeocessing
+# Natural Language Processing (OneShotLearning)  
+Notes and Codes 
